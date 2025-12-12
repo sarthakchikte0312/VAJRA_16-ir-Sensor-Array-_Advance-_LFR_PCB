@@ -1,5 +1,5 @@
 # VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB
-
+![TCRT5000-IR-Sensor-Pin-Configuration](
 ## Features
 Package type: leaded  
 Detector type: phototransistor     
