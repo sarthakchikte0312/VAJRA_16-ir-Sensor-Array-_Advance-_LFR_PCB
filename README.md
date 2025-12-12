@@ -11,4 +11,5 @@ Operating range within > 20 % relative collector current: 0.2 mm to 15 mm
 Typical output current under test: IC = 1 mA  
 Daylight blocking filter  
 Emitter wavelength: 950 nm  
-
+![Sensor Range](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/320745509-d9308b4c-14e6-4dda-8402-fa901bc83efa.png?raw=true)
+![Test circuit Digram](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/320746565-4173f28d-279d-4e5a-a71f-c141fbf048c8.png)
