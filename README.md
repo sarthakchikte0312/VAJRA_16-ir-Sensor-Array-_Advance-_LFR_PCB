@@ -1,5 +1,7 @@
 # VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB
-![TCRT5000-IR-Sensor-Pin-Configuration](
+A 16 IR Sensor array for Fast Line Follower Bot, I have used the TCRT5000 Reflective Optical Sensor with Transistor Output which is connected to CD74HC4067 MUX 
+##TCRT5000 Reflective Optical Sensor
+![TCRT5000-IR-Sensor-Pin-Configuration](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/TCRT5000-IR-Sensor-PIn-Configuration.jpg)
 ## Features
 Package type: leaded  
 Detector type: phototransistor     
