@@ -49,7 +49,7 @@ Large Ball Diameter: 12mm
 Mounting Hole Distance: 15mm
 
 
-##  schematic
+## VAJRA_Schematic
 ![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/VAJRA_Schematic.png)
 
 
