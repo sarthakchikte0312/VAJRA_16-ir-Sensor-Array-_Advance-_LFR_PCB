@@ -69,3 +69,5 @@ Mounting Hole Distance: 15mm
 |3|10k ohm SMD|16|
 |4|CD74HCx4067 16-Channel Analog Multiplexer|1|
 |5|N-20 Castor Wheel|1|
+
+will soon be Updating with my new design making it more reliable
