@@ -16,11 +16,11 @@ Daylight blocking filter
 Emitter wavelength: 950 nm
 
 ## Sensor Range
-![Sensor Range](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/320745509-d9308b4c-14e6-4dda-8402-fa901bc83efa.png?raw=true)
+![Sensor Range](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/vajra1.png?raw=true)
 
 
 ## Test circuit Digram
-![Test circuit Digram](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/320746565-4173f28d-279d-4e5a-a71f-c141fbf048c8.png)
+![Test circuit Digram](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/320746565-4173f28d-279d-4e5a-a71f-c141fbf048c8.png?raw=true)
 
 ## CD74HCx4067 SOIC Topview 
 ![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/CD74HC406M_SOIC_Topview%20.png?raw=true)
@@ -39,7 +39,7 @@ Input/output continuous current (max) (A)	0.025
 Drain supply voltage (max) (V)	6  
 
 ## N20 Castor Ball 
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/robu-2-8.jpg)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/robu-2-8.jpg?raw=true)
 
 
 # Features  
