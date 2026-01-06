@@ -3,7 +3,7 @@ A 16 IR Sensor array for Fast Line Follower Bot, I have used the TCRT5000 Reflec
 
 
 ## TCRT5000 Reflective Optical Sensor  
-![TCRT5000-IR-Sensor-Pin-Configuration](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/TCRT5000-IR-Sensor-PIn-Configuration.jpg)
+![TCRT5000-IR-Sensor-Pin-Configuration](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/TCRT5000-IR-Sensor-PIn-Configuration.jpg?raw=true)
 
 ## Features
 Package type: leaded  
