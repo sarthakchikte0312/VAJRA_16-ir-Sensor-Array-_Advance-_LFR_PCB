@@ -23,7 +23,7 @@ Emitter wavelength: 950 nm
 ![Test circuit Digram](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/320746565-4173f28d-279d-4e5a-a71f-c141fbf048c8.png)
 
 ## CD74HCx4067 SOIC Topview 
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/CD74HC406M_SOIC_Topview%20.png)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/CD74HC406M_SOIC_Topview%20.png?raw=true)
 
 
 ## Features
@@ -50,16 +50,16 @@ Mounting Hole Distance: 15mm
 
 
 ## VAJRA_Schematic
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/VAJRA_Schematic.png)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_Schematic.png?raw=true)
 
 
 # PCB Layout
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/VAJRA_PCB-LAYOUT.png)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_PCB-LAYOUT.png?raw=true)
 
 # VAJRA_3D_Front_view
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/VAJRA_3D_Front_view.png)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_3D_Front_view.png?raw=true)
 # VAJRA_3D_Back_view
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/VAJRA_3D_Back_view.png)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_3D_Back_view.png?raw=true)
  
 ### BOM List
 |S.No|Name|Quanity|
