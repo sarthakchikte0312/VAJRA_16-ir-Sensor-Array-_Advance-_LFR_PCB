@@ -1,0 +1,335 @@
+(footprint "Vishay_TCRT5000"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "IR Reflective Optical Sensor with Transistor Output TCRT5000 https://www.vishay.com/docs/83760/tcrt5000.pdf")
+	(tags "IR Reflective Optical Sensor with Transistor Output TCRT5000 Vishay Distance Sensor")
+	(property "Reference" "REF**"
+		(at 2.75 -2.53 0)
+		(layer "F.SilkS")
+		(uuid "1fc46cff-56ef-46fe-90fa-dbe89cee4412")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Vishay_TCRT5000"
+		(at 2.75 5.37 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "106a8ff3-64b4-4ae3-891d-eac277ec2333")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.vishay.com/docs/83760/tcrt5000.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b955af7c-81c8-4a4f-bad4-ca7a6de0a381")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb8dc035-4259-4ecb-8cc3-06ba6b148bd0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.41 -1.71)
+		(end -3.41 0.29)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "99846346-8c34-4ac7-9eba-3e061de19717")
+	)
+	(fp_line
+		(start -3.41 -1.71)
+		(end -1.41 -1.71)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a9d7319a-1856-4fb9-9adb-275fe0c14135")
+	)
+	(fp_line
+		(start -3.21 -1.51)
+		(end -3.21 4.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2f3364db-326b-4e71-9036-0a685d71a5ec")
+	)
+	(fp_line
+		(start -3.21 -1.51)
+		(end 1 -1.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ca93086f-ee94-48b3-a44d-a9fd2cef45eb")
+	)
+	(fp_line
+		(start -3.21 4.51)
+		(end 1 4.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "73004aac-da38-44f8-9966-2fdea7a1d727")
+	)
+	(fp_line
+		(start 3 -1.51)
+		(end 5.495 -1.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c873d26d-4427-47e2-9b76-8e28ad265d14")
+	)
+	(fp_line
+		(start 3 4.51)
+		(end 5.49 4.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e7d09a9a-6e35-4f94-a549-e8e2c946d40d")
+	)
+	(fp_line
+		(start 7.21 0.2045)
+		(end 5.495 -1.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "233d2f25-8e4f-4a2d-bd41-e6e20e882120")
+	)
+	(fp_line
+		(start 7.21 2.79)
+		(end 5.49 4.51)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "eccaf408-16ed-48c1-9513-143dd2d79010")
+	)
+	(fp_line
+		(start 7.21 2.79)
+		(end 7.21 0.2045)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fc955473-8c55-40d3-85c9-c0e950191e63")
+	)
+	(fp_line
+		(start -3.46 -1.76)
+		(end -3.46 4.76)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a1749f2-fd37-48dc-be9f-51782245ee93")
+	)
+	(fp_line
+		(start -3.46 -1.76)
+		(end 5.67 -1.76)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a4d75737-17c5-4ad3-a6ba-6bbdd1ad6d45")
+	)
+	(fp_line
+		(start -3.46 4.76)
+		(end 5.67 4.76)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "da239b6d-8e2b-4d92-9b70-288f12c6b18d")
+	)
+	(fp_line
+		(start 5.67 -1.76)
+		(end 7.46 0.03)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "fff61148-2990-4347-83b9-1205497f788b")
+	)
+	(fp_line
+		(start 7.46 0.03)
+		(end 7.46 2.93)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "100cef12-e313-4975-b7bd-9eac0cb61229")
+	)
+	(fp_line
+		(start 7.46 2.93)
+		(end 5.67 4.76)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "522a5f6f-8519-4ee5-9eb4-9b4bf2a7c423")
+	)
+	(fp_line
+		(start -3.1 -1.4)
+		(end 5.45 -1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b3d63752-ea87-4204-b788-171da08ae6fb")
+	)
+	(fp_line
+		(start -3.1 4.4)
+		(end -3.1 -1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "278a02aa-656b-43d0-a209-17385e57e3b0")
+	)
+	(fp_line
+		(start 5.45 -1.4)
+		(end 7.1 0.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "bb5af8bd-10ec-4c56-8a20-b7b3d8499188")
+	)
+	(fp_line
+		(start 5.45 4.4)
+		(end -3.075 4.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d87d543b-9059-4423-bb39-c5d447f5f00a")
+	)
+	(fp_line
+		(start 7.1 0.25)
+		(end 7.1 2.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "354726f2-6dc8-4e15-bf3d-1bd4fd171199")
+	)
+	(fp_line
+		(start 7.1 2.75)
+		(end 5.45 4.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "31cab907-26e0-4b41-aeef-6ca2d4682a15")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2 1.5 0)
+		(layer "F.Fab")
+		(uuid "3295744b-5709-4de7-ad6b-a76e68b64089")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 4.75 0.23)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "7dd09188-cc36-417e-ab0f-a236dbf9e856")
+	)
+	(pad "2" thru_hole circle
+		(at 4.75 3.23 90)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cb48e4f3-c20d-4a13-9a11-94f0ae9e513d")
+	)
+	(pad "3" thru_hole circle
+		(at -0.75 3.23)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8fe5a16d-56ee-4ca1-bc58-85c35346ff35")
+	)
+	(pad "4" thru_hole circle
+		(at -0.75 0.23)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "797b5ef1-6de8-4a48-928c-0f869d4b3c94")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_TCRT5000.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
