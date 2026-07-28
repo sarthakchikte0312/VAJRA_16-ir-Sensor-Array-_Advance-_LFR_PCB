@@ -50,16 +50,18 @@ Mounting Hole Distance: 15mm
 
 
 ## VAJRA_Schematic
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_Schematic.png?raw=true)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/vaj3.png?raw=true)
 
 
 # PCB Layout
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_PCB-LAYOUT.png?raw=true)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/vaj4.png?raw=true)
+
 
 # VAJRA_3D_Front_view
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_3D_Front_view.png?raw=true)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/vaj2.png?raw=true)
+
 # VAJRA_3D_Back_view
-![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/VAJRA_3D_Back_view.png?raw=true)
+![image](https://github.com/sarthakchikte0312/VAJRA_16-ir-Sensor-Array-_Advance-_LFR_PCB/blob/main/assets/vaj7.png?raw=true)
  
 ### BOM List
 |S.No|Name|Quanity|
